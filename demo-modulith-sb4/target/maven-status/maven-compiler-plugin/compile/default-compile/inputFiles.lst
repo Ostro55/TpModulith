@@ -1,9 +1,0 @@
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/DemoModulithSb4Application.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/catalog/Catalog.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/catalog/CatalogController.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/catalog/CoffeeCreated.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/catalog/internal/CoffeeEntity.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/catalog/internal/CoffeeRepository.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/inventory/internal/InventoryListener.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/inventory/internal/StockEntity.java
-/home/epita/dev/TpModulith/demo-modulith-sb4/src/main/java/org/formation/inventory/internal/StockRepository.java
